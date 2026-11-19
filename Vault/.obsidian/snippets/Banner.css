@@ -1,0 +1,75 @@
+body {
+    --banner-height: 250px;
+    --banner-desktop-offset: 70px;
+}
+
+.is-mobile {
+    --banner-desktop-offset: 0px;
+}
+
+.banner .internal-embed.image-embed[alt*="banner"] {
+    display: contents;
+}
+
+.banner img[alt*="banner"] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: var(--banner-height);
+    object-fit: cover;
+    object-position: 50% 50%;
+    border-radius: 0;
+    user-select: none;
+    z-index: 0;
+}
+
+.banner img[alt*="banner"][alt*="higher"] { object-position: 50% 30%; }
+.banner img[alt*="banner"][alt*="lower"]  { object-position: 50% 70%; }
+
+.markdown-preview-view.banner .mod-header {
+    position: relative;
+    padding-top: calc(var(--banner-height) - 100px + var(--banner-desktop-offset));
+    z-index: 1;
+}
+
+.markdown-preview-view.banner img[alt*="banner"] {
+    -webkit-mask-image: linear-gradient(to bottom, #000 60%, transparent 100%);
+    mask-image: linear-gradient(to bottom, #000 60%, transparent 100%);
+}
+
+.banner-solid .markdown-preview-view.banner img[alt*="banner"] {
+    -webkit-mask-image: none;
+    mask-image: none;
+}
+
+/* @settings
+
+name: Banner
+id: banner-settings
+description: Change banner settings.
+settings:
+    -
+        id: banner-type
+        title: Banner Style
+        type: class-select
+        allowEmpty: false
+        default: banner-fade
+        options:
+            -
+                label: Fade
+                value: banner-fade
+            -
+                label: Solid
+                value: banner-solid
+    -
+        id: banner-height
+        title: Banner Heigh
+        type: variable-number-slider
+        default: 250
+        min: 100
+        max: 350
+        step: 5
+        format: px
+*/

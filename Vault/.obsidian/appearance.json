@@ -1,0 +1,22 @@
+{
+  "accentColor": "#b59efc",
+  "enabledCssSnippets": [
+    "Image Caption",
+    "table-wrap",
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "Banner-Updated",
+    "Banner",
+    "Table Wrap"
+  ],
+  "cssTheme": "Neo",
+  "theme": "system",
+  "baseFontSize": 16,
+  "translucency": false,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "showRibbon": true,
+  "floatingNavigation": true
+}

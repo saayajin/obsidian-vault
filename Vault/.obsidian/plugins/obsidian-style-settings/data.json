@@ -1,0 +1,9 @@
+{
+  "banner-settings@@banner-type": "banner-fade",
+  "banner-settings@@banner-height": 250,
+  "modular-css-layout-gc@@img-border-radius": "8px",
+  "neo-style@@theme-variant": "dark-theme-default",
+  "neo-style@@heading-color": "headings-color-accent",
+  "neo-style@@neutral-bg": true,
+  "neo-style@@active-line": true
+}

@@ -1,0 +1,40 @@
+{
+  "mobilePullAction": "omnisearch:show-modal",
+  "livePreview": false,
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "mobileQuickRibbonItem": "",
+  "mobileToolbarCommands": [
+    "editor:toggle-checklist-status",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-blockquote",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:unindent-list",
+    "editor:indent-list",
+    "editor:delete-paragraph",
+    "editor:attach-file",
+    "command-palette:open"
+  ],
+  "attachmentFolderPath": "_Files/Attachments",
+  "trashOption": "local",
+  "defaultViewMode": "preview",
+  "spellcheck": false,
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false,
+  "spellcheckLanguages": null,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "propertiesInDocument": "hidden",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "useTab": false,
+  "tabSize": 2,
+  "strictLineBreaks": false,
+  "readableLineLength": true
+}

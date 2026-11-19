@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "10a31fa1add709bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "439f9bdaee2add5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9db9b8361e2a6273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96b74c741679dfac",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7469bd11bc7fb94e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "de86a8ab10e1902e",
+        "type": "leaf",
+        "state": {
+          "type": "recent-notes-view",
+          "state": {},
+          "icon": "clock-10",
+          "title": "Recent notes"
+        }
+      },
+      {
+        "id": "6e5f5bb55ff94487",
+        "type": "leaf",
+        "state": {
+          "type": "bases",
+          "state": {
+            "file": "Journal/Timeline.base",
+            "viewName": "Timeline"
+          },
+          "icon": "lucide-list",
+          "title": "Timeline"
+        }
+      },
+      {
+        "id": "c31ed8ecb2c33569",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": true,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "797234d93715f0c9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "25aa3acce41b08e8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Welcome.md",
+            "collapseAll": true,
+            "extraContext": true,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "8d4efb5b97ee0eef",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Welcome.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "855549733b65ddc8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Welcome.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "db1bee8f80cae57a",
+        "type": "leaf",
+        "state": {
+          "type": "file-properties",
+          "state": {
+            "file": "Welcome.md"
+          },
+          "icon": "lucide-info",
+          "title": "File properties"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "recent-notes:Recent notes": true,
+      "tldraw:Create new tldrawing": false,
+      "cmdr:LanguageTool": false,
+      "omnisearch:Omnisearch": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "obsidian-stille:Toggle Stille": true,
+      "templater-obsidian:Templater": true,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-importer:Import notes": true,
+      "cmdr:Share": false,
+      "bases:Create new base": true
+    }
+  },
+  "active": "9db9b8361e2a6273",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Vault Info.md"
+  ]
+}

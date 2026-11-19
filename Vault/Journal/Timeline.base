@@ -1,0 +1,42 @@
+views:
+  - type: list
+    name: Timeline
+    filters:
+      and:
+        - file.hasTag("journal")
+        - '!file.inFolder("_Files/Templates")'
+    groupBy:
+      property: year
+      direction: DESC
+    order:
+      - file.name
+      - title
+      - rating
+    sort:
+      - property: file.name
+        direction: DESC
+    markers: bullet
+    rowHeight: medium
+    indentProperties: false
+    separator: " "
+  - type: list
+    name: Rating
+    filters:
+      and:
+        - file.hasTag("journal")
+        - '!file.inFolder("_Files/Templates")'
+    groupBy:
+      property: rating
+      direction: DESC
+    order:
+      - file.name
+      - title
+    sort:
+      - property: rating
+        direction: DESC
+      - property: file.name
+        direction: DESC
+    markers: bullet
+    rowHeight: medium
+    indentProperties: false
+    separator: " "

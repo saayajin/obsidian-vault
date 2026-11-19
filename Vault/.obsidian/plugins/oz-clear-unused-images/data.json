@@ -1,0 +1,7 @@
+{
+  "deleteOption": ".trash",
+  "logsModal": true,
+  "excludedFolders": "_Files/Scripts,_Files/Templates,Archive,tldraw",
+  "ribbonIcon": false,
+  "excludeSubfolders": false
+}

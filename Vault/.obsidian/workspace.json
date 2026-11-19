@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "cd74931b21988c52",
+    "type": "split",
+    "children": [
+      {
+        "id": "f044378c6a1a13ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "276e429c3bfffcb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3977b8193ab8d811",
+    "type": "split",
+    "children": [
+      {
+        "id": "c869e7afb8e6f911",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c1e7974579f08ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b0c9542de42aa85",
+            "type": "leaf",
+            "state": {
+              "type": "recent-notes-view",
+              "state": {},
+              "icon": "clock-10",
+              "title": "Recent notes"
+            }
+          },
+          {
+            "id": "6e5f5bb55ff94487",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Journal/Timeline.base",
+                "viewName": "Rating"
+              },
+              "icon": "lucide-list",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "cf0f0ce125c63cb8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8ff47b84a13d3ed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "93670d154963ca23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2976e974547fdbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9bcf61b99f035456",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "fbe0d5bfe34532c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ec7717ca2b1d6121",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": true,
+      "tldraw:Create new tldrawing": false,
+      "cmdr:LanguageTool": false,
+      "omnisearch:Omnisearch": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": true,
+      "cmdr:Share": false,
+      "obsidian-stille:Toggle Stille": true,
+      "templater-obsidian:Templater": true,
+      "obsidian-importer:Import notes": true,
+      "recent-notes:Recent notes": true,
+      "obsidian-local-images-plus:Local Images Plus  0.17.1\r\nLocalize attachments (plugin folder)": true
+    }
+  },
+  "active": "fbe0d5bfe34532c0",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Vault Info.md"
+  ]
+}

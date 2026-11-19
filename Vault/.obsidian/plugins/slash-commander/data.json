@@ -1,0 +1,80 @@
+{
+  "version": 2,
+  "confirmDeletion": false,
+  "showDescriptions": true,
+  "showSourcesForDuplicates": true,
+  "debug": false,
+  "mainTrigger": "/",
+  "extraTriggers": [],
+  "useExtraTriggers": false,
+  "triggerOnlyOnNewLine": false,
+  "queryPattern": {},
+  "bindings": [
+    {
+      "name": "Attachment",
+      "id": "editor:attach-file",
+      "icon": "paperclip",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:attach-file",
+      "children": []
+    },
+    {
+      "name": "Embed",
+      "id": "editor:insert-embed",
+      "icon": "sticky-note",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:insert-embed",
+      "children": []
+    },
+    {
+      "name": "Template",
+      "id": "templater-obsidian:insert-templater",
+      "icon": "book-copy",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false,
+      "action": "templater-obsidian:insert-templater",
+      "children": []
+    },
+    {
+      "name": "Property",
+      "id": "markdown:add-metadata-property",
+      "icon": "plus-circle",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false,
+      "action": "markdown:add-metadata-property",
+      "children": []
+    },
+    {
+      "name": "Callout",
+      "id": "editor:insert-callout",
+      "icon": "indent",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:insert-callout",
+      "children": []
+    },
+    {
+      "name": "Code",
+      "id": "editor:insert-codeblock",
+      "icon": "terminal",
+      "mode": "any",
+      "triggerMode": "anywhere",
+      "chosen": false,
+      "selected": false,
+      "action": "editor:insert-codeblock",
+      "children": []
+    }
+  ]
+}

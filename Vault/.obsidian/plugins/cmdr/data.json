@@ -1,0 +1,66 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-languagetool-plugin:ltcheck-text",
+      "icon": "check-square",
+      "name": "LanguageTool",
+      "mode": "any"
+    },
+    {
+      "id": "open-with-default-app:open",
+      "icon": "lucide-arrow-up-right",
+      "name": "Share",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 1,
+          "delay": 2200
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-stille:toggleStille"
+        }
+      ],
+      "name": "Toggle Stille",
+      "icon": "star",
+      "startup": true
+    }
+  ],
+  "explorer": [],
+  "emptyState": [],
+  "textToolbarCommands": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Open Importer",
+      "Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)"
+    ],
+    "editorMenuItems": [],
+    "fileMenuItems": []
+  },
+  "spacing": 0,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": true,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 8
+  },
+  "spacingReset": true
+}

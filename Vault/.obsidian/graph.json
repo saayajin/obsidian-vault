@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Archive",
+      "color": {
+        "a": 1,
+        "rgb": 2236962
+      }
+    },
+    {
+      "query": "path:Saved ",
+      "color": {
+        "a": 1,
+        "rgb": 13948116
+      }
+    },
+    {
+      "query": "path:Journal ",
+      "color": {
+        "a": 1,
+        "rgb": 741723
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.14853529247652,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.2585435609164085,
+  "close": true
+}

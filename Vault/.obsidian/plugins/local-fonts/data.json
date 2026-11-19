@@ -1,0 +1,344 @@
+{
+  "folder": ".obsidian/fonts",
+  "roles": {
+    "text": "iA Writer Duo S",
+    "interface": "Geist",
+    "monospace": "IBM Plex Mono",
+    "headings": "iA Writer Quattro S",
+    "emoji": "Noto Color Emoji"
+  },
+  "hardOverride": false,
+  "cache": {
+    "version": 2,
+    "folder": ".obsidian/fonts",
+    "faces": [
+      {
+        "path": ".obsidian/fonts/Geist-Bold.ttf",
+        "format": "ttf",
+        "size": 128868,
+        "mtime": 1792158538000,
+        "family": "Geist",
+        "weight": 700,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+        "source": "name-table"
+      },
+      {
+        "path": ".obsidian/fonts/Geist-BoldItalic.ttf",
+        "format": "ttf",
+        "size": 130648,
+        "mtime": 1792158538000,
+        "family": "Geist",
+        "weight": 700,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+        "source": "name-table"
+      },
+      {
+        "path": ".obsidian/fonts/Geist-Italic.ttf",
+        "format": "ttf",
+        "size": 128288,
+        "mtime": 1792158538000,
+        "family": "Geist",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+        "source": "name-table"
+      },
+      {
+        "path": ".obsidian/fonts/Geist-Regular.ttf",
+        "format": "ttf",
+        "size": 126048,
+        "mtime": 1792158538000,
+        "family": "Geist",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+        "source": "name-table"
+      },
+      {
+        "path": ".obsidian/fonts/IBMPlexMono-Bold.ttf",
+        "format": "ttf",
+        "size": 175096,
+        "mtime": 1781204080000,
+        "family": "IBM Plex Mono",
+        "weight": 700,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": ".obsidian/fonts/IBMPlexMono-BoldItalic.ttf",
+        "format": "ttf",
+        "size": 180256,
+        "mtime": 1781204080000,
+        "family": "IBM Plex Mono",
+        "weight": 700,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": ".obsidian/fonts/IBMPlexMono-Italic.ttf",
+        "format": "ttf",
+        "size": 179756,
+        "mtime": 1781204080000,
+        "family": "IBM Plex Mono",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": ".obsidian/fonts/IBMPlexMono-Regular.ttf",
+        "format": "ttf",
+        "size": 173052,
+        "mtime": 1781204080000,
+        "family": "IBM Plex Mono",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": ".obsidian/fonts/NotoColorEmoji-Regular.ttf",
+        "format": "ttf",
+        "size": 25347176,
+        "mtime": 1793308788000,
+        "family": "Noto Color Emoji",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [
+          "COLR1",
+          "SVG"
+        ],
+        "scripts": [
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+        "source": "name-table"
+      },
+      {
+        "path": ".obsidian/fonts/iAWriterDuoS-Bold.ttf",
+        "format": "ttf",
+        "size": 121460,
+        "mtime": 1792607724383,
+        "family": "iA Writer Duo S",
+        "weight": 700,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": ".obsidian/fonts/iAWriterDuoS-BoldItalic.ttf",
+        "format": "ttf",
+        "size": 105252,
+        "mtime": 1792607724387,
+        "family": "iA Writer Duo S",
+        "weight": 700,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": ".obsidian/fonts/iAWriterDuoS-Italic.ttf",
+        "format": "ttf",
+        "size": 105824,
+        "mtime": 1792607724391,
+        "family": "iA Writer Duo S",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": ".obsidian/fonts/iAWriterDuoS-Regular.ttf",
+        "format": "ttf",
+        "size": 120696,
+        "mtime": 1792607724395,
+        "family": "iA Writer Duo S",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": ".obsidian/fonts/iAWriterQuattroS-Bold.ttf",
+        "format": "ttf",
+        "size": 120404,
+        "mtime": 1792607724503,
+        "family": "iA Writer Quattro S",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": ".obsidian/fonts/iAWriterQuattroS-BoldItalic.ttf",
+        "format": "ttf",
+        "size": 104520,
+        "mtime": 1792607724507,
+        "family": "iA Writer Quattro S",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": ".obsidian/fonts/iAWriterQuattroS-Italic.ttf",
+        "format": "ttf",
+        "size": 105028,
+        "mtime": 1792607724511,
+        "family": "iA Writer Quattro S",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": ".obsidian/fonts/iAWriterQuattroS-Regular.ttf",
+        "format": "ttf",
+        "size": 119772,
+        "mtime": 1792607724511,
+        "family": "iA Writer Quattro S",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      }
+    ]
+  }
+}

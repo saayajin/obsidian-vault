@@ -1,0 +1,5 @@
+{
+  "folder": "Journal",
+  "template": "_Files/Templates/new-journal.md",
+  "format": "YYYY/YYYY-MM-DD"
+}
